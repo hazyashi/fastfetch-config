@@ -2,6 +2,10 @@
 
  please dont judge me i am just a stupid creature with a dream.
 
+
+For the icon glyphs, you need to be using a nerd font! 
+https://www.nerdfonts.com/ 
+
 There is a revision I made of it to change a couple nerd font glyphs and add the os age, uptime, and drive storage. They will be labeled as config_1.jsonc and config_2.jsonc. 
 
 Before putting the file in your ~/.config/fastfetch/ directory, rename the file to just confif.jsonc.
